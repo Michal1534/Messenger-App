@@ -2,8 +2,6 @@
 * [General info](#general-info)
 * [Inspiration](#inspiration)
 * [Technologies](#technologies)
-* [Screenshots](#screenshots)
-* [To Do](#to-do)
 * [Setup](#setup)
 
 ## General info
@@ -18,13 +16,6 @@ Project is created with:
 * React Native
 * NativeBase
 * Firebase
-
-## Screenshots
-![image](https://user-images.githubusercontent.com/92795167/160703761-c9514afb-47f8-411d-9d77-aebecc3361e8.png)
-
-
-## To Do
-* Finish messege sending system between users
 
 ## Setup
 To run this project, install it locally using npm:
